@@ -1,0 +1,21 @@
+24-12-31--11-20-52
+
+nb_nodes=50
+bsz=512
+dim_emb=128
+dim_ff=512
+dim_input_nodes=2
+nb_layers_encoder=6
+nb_layers_decoder=2
+nb_heads=8
+nb_epochs=10000
+nb_batch_per_epoch=2500
+nb_batch_eval=20
+gpu_id=0
+lr=0.0001
+tol=0.001
+batchnorm=True
+max_len_PE=1000
+
+
+Epoch: 0, epoch time: 33.702min, tot time: 0.023day, L_train: 6.523, L_base: 11.246, L_test: 6.536, gap_train(%): 14.599, update: True
