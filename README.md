@@ -4,7 +4,7 @@ ortool.ipynb是ortool求解器对于TSP问题的求解
 
 Transformer.ipynb是神经网络的训练，训练后的模型存储在checkpoint中
 
-debugging Image是过程中一写记录的照片
+debugging Image是过程中一些记录的照片
 
 visualization_Transformer_ortool.ipynb是对比Transformer训练与ortool训练的结果
 
